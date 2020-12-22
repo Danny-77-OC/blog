@@ -1,6 +1,6 @@
 
 
-<form method="post" action="object.php" enctype="multipart/form-data">
+<form method="post" action="index.php" enctype="multipart/form-data">
 	
 	<label>pseudo</label><br>
     <input type="text" name="pseudo"><br><br>
